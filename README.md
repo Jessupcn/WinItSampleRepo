@@ -1,0 +1,1 @@
+This is sample code to be sent to the company WinIt. The code in FrontEnd comes from my personal project: League_Lookup. The code in Server comes from my personal project SimpleStocks. The Server and FrontEnd are in no way related to each other and not meant to be run together.
